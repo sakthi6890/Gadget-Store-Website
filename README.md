@@ -1,7 +1,8 @@
 # Gadget-Store-Website
 Welcome to the **Gadgets Store**! This is an online store built using **HTML**, **CSS**, and a little bit of **JavaScript**. The goal of this project is to provide users with a sleek and easy-to-use interface where they can browse and buy the latest gadgets.
 
-![image](https://github.com/user-attachments/assets/1eda53be-bfef-4625-b462-704963d82a49)
+
+![Screenshot 2025-01-31 211831](https://github.com/user-attachments/assets/9adf78a1-d0ed-4266-93d2-049b611889f3)
 
 
 ## Project Features:
